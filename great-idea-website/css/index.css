@@ -115,3 +115,55 @@ hr {
 	width: 80%;
 	/* padding: 30px; */
 }
+
+.info {
+	padding: 50px;
+	float: left;
+	width: 100%;
+}
+
+.info-left {
+	width: 40%;
+	display: block;
+	float: left
+
+}
+
+.info-right {
+	width: 40%;
+	display: block;
+	float: right;
+}
+
+.info-below{
+	width: 100%
+}
+
+.info-left-below{
+	width: 30%;
+	float: left;
+	padding: 3%;
+}
+
+.info-middle-below{
+	width: 30%;
+	float: left;
+	padding: 3%;
+}
+
+.info-right-below{
+	width: 30%;
+	float: left;
+	padding: 3%;
+}
+
+.contact {
+	clear: both;
+	width: 100%;
+	padding: 3%;
+}
+
+.middle-img {
+	width: 100%;
+	padding: 5%;
+}
