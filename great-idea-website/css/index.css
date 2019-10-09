@@ -81,3 +81,31 @@ h1, h2, h3, h4, h5 {
 .logo {
 	padding: 0px 0px 0px 80px;
 }
+
+.jumbotron {
+	width: 100%;
+	float: left;
+	padding: 30px;
+}
+.jumbotron h1{
+	padding-top: 40px;
+	padding-left: 30px;
+	padding-bottom: 20px;
+	font-size: 75px;
+	text-align: center;
+}
+
+.jumbo-left {
+	display: block;
+	float: left
+}
+
+.jumbo-right {
+	display: block;
+	float: right;
+}
+
+.jumbotron button {
+	position: relative;
+	margin: 0px 0px 0px 140px;
+}
